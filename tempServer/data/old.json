@@ -1,0 +1,24 @@
+[
+  {
+    "name": "SMEG Blender",
+    "spec": [
+      { "color": "Pink" },
+      { "power": "800W" },
+      { "voltage": "220-240V" },
+      { "frequency": "50/60Hz" },
+      { "weight": "4.8 kg" },
+      { "body_material": "Stainless Steel" },
+      { "speeds": 4 },
+      { "max_spin": "18000 giri / min" },
+      { "width": "197 mm" },
+      { "height": "397 mm" }
+    ],
+    "id": "7544ce76",
+    "image": "https://assets.4flow.cloud/BLF01PKAU_6.jpg?pEFs=cVY2M1MyN1ZOMFFadEQ5ZlVOMzhVeVZNTGxoS2tFM3RxK1F2S2tBdkFvNU4wa2lYTGlESW5hZE1wYUtkbVZ6amMySWZNWldYeStmYzR5c09lemhudDVqN3lSdGFDbDBGWGpyWXhtbEJSQXVzdVk2ZThucjY2cjhXZWd5Rnh3Zk5WcUMxbmd2WTk2L1NKVnVNazZPVWlnPT0",
+    "description": "For a healthy fruit and yogurt smoothie for breakfast, to recover with a refreshing drink after a workout, or to prepare a quick and simple soup for lunch, Smeg blends ingredients of different textures to perfection, to accompany you throughout the day.",
+    "price": 299.95,
+    "stock": 25,
+    "sale": 10,
+    "category": "appliances"
+  }
+]
