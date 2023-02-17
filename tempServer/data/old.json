@@ -1,1 +1,13 @@
-[{"name":"SMEG Stand Mixer","spec":[{"color":"Cream"},{"power":"800 W"},{"voltage":"220-240 V"},{"frequency":"50/60 Hz"},{"speeds":10},{"weight":"8.81 kg"},{"bowl_capacity":"4.8 l"},{"body_material":"Stainless Steel"},{"width":"405 mm"},{"height":"378 mm"}],"id":"7544cc50","image":"https://assets.4flow.cloud/SMF02CRAU.jpg?pEFs=cVY2M1MyN1ZOMFFadEQ5ZlVOMzhVeDNjb1I1MXVUa2ZUMU93NXptS1lQZXlIN3FZU3ZvalpGcFR1RHZqRUxPb2czbGhZWkc0QmxnNUFqdCtnSytnSjRvTEJpTUIrVTRpbVFJZEs4NFNqOEFheUE5TW00QlpGYWdvRVZZS3p5L3RXcDBSMUo1bTg3VWVyV2pyUFgvb1NRPT0","description":"Smeg Stand Mixers can assist you in every culinary endeavour, adding geniality and versatility to your recipes. Thanks to its standard accessories and the ones purchasable separately, you will be able to really show off your culinary skills! Your creativity has finally found its perfect companion.","price":499.95,"stock":7,"sale":0,"category":"appliances"}]
+[
+  {
+    "description": "Astonishing performance. Incredibly advanced displays. Superfast wireless connectivity. Next-level Apple Pencil capabilities. Powerful new features in iPadOS 16. The ultimate iPad experience.",
+    "spec": [{ "CPU": "8-core" }, { "GPU": "10-core" }],
+    "name": "iPad Pro",
+    "id": "88b45bfa",
+    "image": "https://www.apple.com/v/ipad-pro/al/images/overview/chip/performance_hero__cxya4f2p5euu_large_2x.jpg",
+    "price": 799,
+    "stock": 23,
+    "sale": 10,
+    "category": "computers & tablets"
+  }
+]
